@@ -1,2 +1,5 @@
-# K Means Clustering Project
+# K Means Clustering with Python and Scikit-Learn
+
+
+============================================================================
 
