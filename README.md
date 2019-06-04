@@ -33,7 +33,8 @@ are provided. Data points are clustered based on feature similarity.
 K-Means clustering can be represented diagrammatically as follows:-
 
 
-# K-Means
+![K-Means](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/K-Means.png)
+
 
 ===============================================================================
 
@@ -80,7 +81,7 @@ This algorithm is guaranteed to converge to a result. The result may be a local 
 The K-Means intuition can be represented with the help of following diagram:-
 
 
-# K-Means clustering example
+![K-Means clustering example](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/K-Means%20clustering%20example.jpg)
 
 ===============================================================================
 
@@ -100,7 +101,7 @@ The K-Means algorithm depends upon finding the number of clusters and data label
 The elbow method is used to determine the optimal number of clusters in k-means clustering. The elbow method plots the value of the cost function produced by different values of k. The below diagram shows how the elbow method works:-
 
 
-# D-Elbow method in K-Means
+![Elbow method in K-Means](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/Elbow%20method%20in%20K-Means.png)
 
 
 We can see that, if k increases, average distortion will decrease.  Then each cluster will have fewer constituent instances, and the instances will be closer to their respective centroids. However, the improvements in average distortion will decline as k increases. 
