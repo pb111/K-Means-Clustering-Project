@@ -134,6 +134,13 @@ Disadvantages of K-Means are listed below:-
 
 ## 7. The problem statement
 
+In this project, I implement K-Means clustering with Python and Scikit-Learn. K-Means clustering is used to find intrinsic groups 
+within the unlabelled dataset and draw inferences from them. I have used `Facebook Live Sellers in Thailand` dataset for this project, downloaded from the UCI Machine Learning repository. The dataset can be found at the following url-
+
+https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
+
+The dataset consists of Facebook pages of 10 Thai fashion and cosmetics retail sellers. The `status_type` behaviour variable consists of posts of a different nature (video, photos, statuses and links). It also contains engagement metrics of comments, shares and reactions. I implement K-Means clustering to find intrinsic groups within this dataset that display the same `status_type` behaviour. 
+
 
 ===============================================================================
 
@@ -142,7 +149,7 @@ Disadvantages of K-Means are listed below:-
 
 ===============================================================================
 
-## 9. Applications of K-Means 
+## 9. Applications of K-Means Clustering
 
 
 K-Means clustering is the most common unsupervised machine learning algorithm. It is widely used for many applications which include-
