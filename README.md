@@ -111,7 +111,7 @@ The value of k at which improvement in distortion declines the most is called th
 ===============================================================================
 
 
-## 6. Advantages and disadvantages of K-Means
+## 6. Advantages and disadvantages of K-Means algorithm
 
 
 The advantages of K-Means are as follows:-
