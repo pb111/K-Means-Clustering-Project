@@ -147,6 +147,8 @@ The dataset consists of Facebook pages of 10 Thai fashion and cosmetics retail s
 ## 8. Results and conclusion
 
 
+i
+
 ===============================================================================
 
 ## 9. Applications of K-Means Clustering
