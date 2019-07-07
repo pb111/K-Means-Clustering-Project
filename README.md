@@ -33,7 +33,7 @@ are provided. Data points are clustered based on feature similarity.
 
 K-Means clustering can be represented diagrammatically as follows:-
 
-
+### K-Means
 ![K-Means](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/K-Means.png)
 
 
@@ -81,7 +81,7 @@ This algorithm is guaranteed to converge to a result. The result may be a local 
 
 The K-Means intuition can be represented with the help of following diagram:-
 
-
+### K-Means intuition
 ![K-Means clustering example](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/K-Means%20clustering%20example.jpg)
 
 ===============================================================================
@@ -101,7 +101,7 @@ The K-Means algorithm depends upon finding the number of clusters and data label
 
 The elbow method is used to determine the optimal number of clusters in k-means clustering. The elbow method plots the value of the cost function produced by different values of k. The below diagram shows how the elbow method works:-
 
-
+### Elbow method
 ![Elbow method in K-Means](https://github.com/pb111/K-Means-Clustering-Project/blob/master/Images/Elbow%20method%20in%20K-Means.png)
 
 
@@ -147,7 +147,19 @@ The dataset consists of Facebook pages of 10 Thai fashion and cosmetics retail s
 ## 8. Results and conclusion
 
 
-i
+1.	In this project, I have implemented the most popular unsupervised clustering technique called **K-Means Clustering**.
+
+2.	I have applied the elbow method and find that k=2 (k is number of clusters) can be considered a good number of cluster 
+to cluster this data.
+
+3.	I have find that the model has very high inertia of 237.7572. So, this is not a good model fit to the data.
+
+4.	I have achieved a weak classification accuracy of 1% with k=2 by our unsupervised model.
+
+5.	So, I have changed the value of k and find relatively higher classification accuracy of 62% with k=4.
+
+6.	Hence, we can conclude that k=4 being the optimal number of clusters.
+
 
 ===============================================================================
 
@@ -157,9 +169,13 @@ i
 K-Means clustering is the most common unsupervised machine learning algorithm. It is widely used for many applications which include-
 
 1.	Image segmentation
+
 2.	Customer segmentation
+
 3.	Species clustering
+
 4.	Anomaly detection
+
 5.	Clustering languages
 
 
